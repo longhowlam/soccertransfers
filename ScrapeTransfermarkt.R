@@ -6,7 +6,7 @@ library(visNetwork)
 library(wordcloud)
 
 AllTransfers = data.frame()
-for( jaar in 1996:2018 ){
+for( jaar in 1993:2018 ){
   print(jaar)
   link = paste0(
     "https://www.transfermarkt.nl/eredivisie/transfers/wettbewerb/NL1/plus/?saison_id=",
