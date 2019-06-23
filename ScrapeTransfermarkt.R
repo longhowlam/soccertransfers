@@ -184,7 +184,7 @@ rules
 ## laat enkele regels zien
 inspect(rules)
 
-inspect( sort(rules, by = "lift")[1:200])
+inspect( sort(rules, by = "support")[1:200])
 
 
 
