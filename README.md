@@ -1,4 +1,4 @@
-# soccertransfers
+# soccertransfers analysis
 <p align="center">
   <img src="Blogplaatje01.JPG" width="350"/>
 </p>
